@@ -1,0 +1,9 @@
+Q6Version: v6,,,,,,,,,,,,
+hexagon tools: 8.0.06,,,,,,,,,,,,
+Library Version : NA,,,,,,,,,,,,
+,,,,,,,,,,,,
+S.N.,InP0ch,InP0bps,InP0fs,gain,Config File,Log File,Peak MPPS,MPPS,Avg MPPS,Max Heap ,Error,Vector
+1,2,32,48000,4096,InP0ch2,InP0ch2,0.293,0.36,0.293,,,48kHz_stereo_32bits.raw
+2,2,16,48000,16384,InP0ch2,InP0ch2,0.215,0.36,0.215,,,48kHz_stereo_32bits.raw
+3,2,32,48000,16384,InP0ch2,InP0ch2,0.293,0.36,0.293,,,48kHz_stereo_32bits.raw
+4,2,16,48000,4096,InP0ch2,InP0ch2,0.215,0.36,0.215,,,48kHz_stereo_32bits.raw
